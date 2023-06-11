@@ -1,4 +1,4 @@
-# BTT
+# Blade Tip Timing implementation for blade vibration measurement:
 **I prepared a laboratory simulator for blade vibration.** 
 **Fibre-optic sensors were used to measure the blade vibrations based on a number of Blade Tip Timing (BTT) techniques.** 
 **The test setup (including the shaker and sensors) is shown in the following photo:**
